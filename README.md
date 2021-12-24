@@ -4,6 +4,8 @@ Currently kepping an 👀 on [web3](https://web3.foundation/)
 
 You can find me at   tinenourelhouda@gmail.com
 
+Somethimes I scrible at [Medium](https://medium.com/@tinenourelhouda)
+
 
 <!--
 **NurElHuda/NurElHuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
