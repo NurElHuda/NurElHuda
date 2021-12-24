@@ -1,4 +1,4 @@
-### Hallo 👋
+### Hallo!
 
 Currently kepping an 👀 on [web3](https://web3.foundation/)
 
