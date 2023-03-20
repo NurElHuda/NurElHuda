@@ -1,10 +1,6 @@
 ### Hallo!
 
-Currently keeping an 👀 on [web3](https://web3.foundation/)
-
 You can find me at   tinenourelhouda@gmail.com
-
-Somethimes I scrible at [Medium](https://medium.com/@tinenourelhouda)
 
 
 <!--
